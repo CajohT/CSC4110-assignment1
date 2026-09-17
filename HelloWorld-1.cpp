@@ -1,5 +1,6 @@
 // Simple C++ program to display "Hello World"
-// Header file for input output functions
+// Cajoh Thomas tcajoh@gmail.com
+// Header file for input output functions 
 #include<iostream>
 using namespace std;
 // main function -
